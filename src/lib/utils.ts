@@ -1,5 +1,5 @@
 /**
- * Utility Functions - Mulyam Jewelry
+ * Utility Functions - Mulyam Jewels
  * 
  * Helper functions used across the application.
  */

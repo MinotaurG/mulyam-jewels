@@ -1,5 +1,5 @@
 /**
- * Footer Component - Mulyam Jewelry
+ * Footer Component - Mulyam Jewels
  * 
  * Site-wide footer with:
  * - Brand info
@@ -77,7 +77,7 @@ export default function Footer() {
             {/* Social Links */}
             <div className="mt-6 flex gap-4">
               <a
-                href="https://instagram.com/mulyamjewelry"
+                href="https://instagram.com/Mulyam_jewels"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-500 hover:text-neutral-900 transition-colors"
@@ -175,7 +175,7 @@ export default function Footer() {
       <div className="border-t border-neutral-200">
         <div className="max-w-7xl mx-auto px-6 py-6">
           <p className="text-xs text-neutral-500 text-center">
-            © {new Date().getFullYear()} Mulyam Jewelry. All rights reserved.
+            © {new Date().getFullYear()} Mulyam Jewels. All rights reserved.
           </p>
         </div>
       </div>

@@ -1,5 +1,5 @@
 /**
- * Root Layout - Mulyam Jewelry
+ * Root Layout - Mulyam Jewels
  * 
  * This file wraps ALL pages in the application.
  * Contains:
@@ -38,8 +38,8 @@ const geistMono = Geist_Mono({
  */
 export const metadata: Metadata = {
   title: {
-    default: "Mulyam Jewelry | Fashion Jewelry for Women, Kids & Pets",
-    template: "%s | Mulyam Jewelry",
+    default: "Mulyam Jewels | Fashion Jewelry for Women, Kids & Pets",
+    template: "%s | Mulyam Jewels",
   },
   description: "India's first fashion jewelry brand for pets. Discover elegant, affordable jewelry for women, kids, and your furry friends.",
   keywords: ["pet jewelry india", "dog necklace", "cat accessories", "fashion jewelry", "women jewelry", "kids jewelry"],

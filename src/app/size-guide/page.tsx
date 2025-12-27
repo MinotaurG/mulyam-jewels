@@ -1,5 +1,5 @@
 /**
- * Size Guide Page - Mulyam Jewelry
+ * Size Guide Page - Mulyam Jewels
  * 
  * URL: /size-guide
  * 

@@ -1,5 +1,5 @@
 /**
- * About Page - Mulyam Jewelry
+ * About Page - Mulyam Jewels
  * 
  * URL: /about
  * 
@@ -18,7 +18,7 @@ import type { Metadata } from 'next';
  */
 export const metadata: Metadata = {
   title: 'About Us',
-  description: 'Learn about Mulyam Jewelry - India\'s first fashion jewelry brand for pets. Our story, mission, and why we started.',
+  description: 'Learn about Mulyam Jewels - India\'s first fashion jewelry brand for pets. Our story, mission, and why we started.',
 };
 
 /**
@@ -217,12 +217,12 @@ export default function AboutPage() {
           </p>
           <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
-              href="https://instagram.com/mulyamjewelry"
+              href="https://instagram.com/Mulyam_jewels"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-8 py-4 bg-neutral-900 text-white text-sm tracking-wide rounded-full hover:bg-neutral-800 transition-colors"
             >
-              Follow @mulyamjewelry
+              Follow @Mulyam_jewels
             </a>
             <Link
               href="/collections/pets"

@@ -1,5 +1,5 @@
 /**
- * Kids Collection Page - Mulyam Jewelry
+ * Kids Collection Page - Mulyam Jewels
  * 
  * URL: /collections/kids
  */
@@ -9,7 +9,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Kids Jewelry Collection',
-  description: 'Safe, playful, and adorable jewelry for kids. Discover cute accessories perfect for little ones at Mulyam Jewelry.',
+  description: 'Safe, playful, and adorable jewelry for kids. Discover cute accessories perfect for little ones at Mulyam Jewels.',
   keywords: ['kids jewelry india', 'children accessories', 'girls jewelry', 'safe kids jewelry'],
 };
 
@@ -166,7 +166,7 @@ export default function KidsCollectionPage() {
 
                 {/* Order Button */}
                 <a
-                  href="https://instagram.com/mulyamjewelry"
+                  href="https://instagram.com/Mulyam_jewels"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-4 block w-full py-3 text-center text-sm border border-neutral-300 rounded-full hover:border-neutral-900 hover:bg-neutral-900 hover:text-white transition-all"

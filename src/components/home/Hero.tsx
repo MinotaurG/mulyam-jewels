@@ -1,5 +1,5 @@
 /**
- * Hero Component - Mulyam Jewelry
+ * Hero Component - Mulyam Jewels
  * 
  * The main banner section on the homepage.
  * Uniqlo-style: Clean, minimal, strong typography, clear CTA.
@@ -47,7 +47,7 @@ export default function Hero() {
           
           {/* Primary CTA */}
           <a
-            href="https://instagram.com/mulyamjewelry"
+            href="https://instagram.com/Mulyam_jewels"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-4 bg-neutral-900 text-white text-sm tracking-wide rounded-full hover:bg-neutral-800 transition-colors"

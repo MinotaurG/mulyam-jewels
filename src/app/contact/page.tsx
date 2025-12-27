@@ -1,5 +1,5 @@
 /**
- * Contact Page - Mulyam Jewelry
+ * Contact Page - Mulyam Jewels
  * 
  * URL: /contact
  * 
@@ -20,7 +20,7 @@ import type { Metadata } from 'next';
  */
 export const metadata: Metadata = {
   title: 'Contact Us',
-  description: 'Get in touch with Mulyam Jewelry. Order via WhatsApp, Instagram DM, or send us a message.',
+  description: 'Get in touch with Mulyam Jewels. Order via WhatsApp, Instagram DM, or send us a message.',
 };
 
 /**
@@ -38,8 +38,8 @@ const contactMethods = [
   {
     name: 'Instagram',
     description: 'DM us to order',
-    value: '@mulyamjewelry',
-    href: 'https://instagram.com/mulyamjewelry',
+    value: '@Mulyam_jewels',
+    href: 'https://instagram.com/Mulyam_jewels',
     icon: '📸',
     cta: 'Send DM',
   },

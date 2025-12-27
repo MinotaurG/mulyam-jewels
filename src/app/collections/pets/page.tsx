@@ -1,5 +1,5 @@
 /**
- * Pets Collection Page - Mulyam Jewelry
+ * Pets Collection Page - Mulyam Jewels
  * 
  * URL: /collections/pets
  * 
@@ -191,7 +191,7 @@ export default function PetsCollectionPage() {
 
                 {/* Order Button */}
                 <a
-                  href={`https://instagram.com/mulyamjewelry`}
+                  href={`https://instagram.com/Mulyam_jewels`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-4 block w-full py-3 text-center text-sm border border-neutral-300 rounded-full hover:border-neutral-900 hover:bg-neutral-900 hover:text-white transition-all"
@@ -266,12 +266,12 @@ export default function PetsCollectionPage() {
             latest arrivals or DM us for custom requests!
           </p>
           <a
-            href="https://instagram.com/mulyamjewelry"
+            href="https://instagram.com/Mulyam_jewels"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-8 px-8 py-4 bg-neutral-900 text-white text-sm tracking-wide rounded-full hover:bg-neutral-800 transition-colors"
           >
-            Follow @mulyamjewelry
+            Follow @Mulyam_jewels
           </a>
         </div>
       </section>

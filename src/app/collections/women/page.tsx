@@ -1,5 +1,5 @@
 /**
- * Women Collection Page - Mulyam Jewelry
+ * Women Collection Page - Mulyam Jewels
  * 
  * URL: /collections/women
  */
@@ -9,7 +9,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Women\'s Jewelry Collection',
-  description: 'Elegant and affordable fashion jewelry for women. Discover necklaces, earrings, bracelets and more at Mulyam Jewelry.',
+  description: 'Elegant and affordable fashion jewelry for women. Discover necklaces, earrings, bracelets and more at Mulyam Jewels.',
   keywords: ['women jewelry india', 'fashion jewelry', 'affordable jewelry', 'artificial jewelry'],
 };
 
@@ -166,7 +166,7 @@ export default function WomenCollectionPage() {
 
                 {/* Order Button */}
                 <a
-                  href="https://instagram.com/mulyamjewelry"
+                  href="https://instagram.com/Mulyam_jewels"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="mt-4 block w-full py-3 text-center text-sm border border-neutral-300 rounded-full hover:border-neutral-900 hover:bg-neutral-900 hover:text-white transition-all"

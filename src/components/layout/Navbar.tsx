@@ -1,5 +1,5 @@
 /**
- * Navbar Component - Mulyam Jewelry
+ * Navbar Component - Mulyam Jewels
  * 
  * Clean, minimal navigation inspired by Uniqlo.
  * Features:
@@ -64,7 +64,7 @@ export default function Navbar() {
           {/* CTA Button - Right Side (Hidden on mobile) */}
           <div className="hidden md:block">
             <a
-              href="https://instagram.com/mulyamjewelry"
+              href="https://instagram.com/Mulyam_jewels"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm tracking-wide bg-neutral-900 text-white px-5 py-2 rounded-full hover:bg-neutral-800 transition-colors"

@@ -1,5 +1,5 @@
 /**
- * Featured Collections Component - Mulyam Jewelry
+ * Featured Collections Component - Mulyam Jewels
  * 
  * Displays the three main product categories as clickable cards.
  * Uniqlo-style: Large images, minimal text, clean grid.

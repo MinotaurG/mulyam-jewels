@@ -1,5 +1,5 @@
 /**
- * Collections Index Page - Mulyam Jewelry
+ * Collections Index Page - Mulyam Jewels
  * 
  * URL: /collections
  * 
@@ -12,7 +12,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'All Collections',
-  description: 'Browse all Mulyam Jewelry collections - fashion jewelry for women, kids, and pets. India\'s first pet jewelry brand.',
+  description: 'Browse all Mulyam Jewels collections - fashion jewelry for women, kids, and pets. India\'s first pet jewelry brand.',
 };
 
 /**

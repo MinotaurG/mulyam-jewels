@@ -1,5 +1,5 @@
 /**
- * Why Choose Us Component - Mulyam Jewelry
+ * Why Choose Us Component - Mulyam Jewels
  * 
  * Highlights key selling points and builds trust.
  * Features icons with short descriptions.

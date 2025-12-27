@@ -1,5 +1,5 @@
 /**
- * Homepage - Mulyam Jewelry
+ * Homepage - Mulyam Jewels
  * 
  * The main landing page featuring:
  * - Hero section (above the fold)
